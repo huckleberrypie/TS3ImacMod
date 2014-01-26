@@ -1,4 +1,4 @@
-﻿/*   This program is free software: you can redistribute it and/or modify
+﻿/*  This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
@@ -15,7 +15,7 @@ using Sims3.Gameplay.Abstracts;
 using Sims3.Gameplay.ObjectComponents;
 using Sims3.SimIFace;
 using System;
-namespace Sims3.Gameplay.Objects.Electronics
+namespace Sims3.Gameplay.Objects.Electronics.Blakemod
 {
     public class ComputerImac : ComputerExpensive
     {
