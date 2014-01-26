@@ -1,0 +1,3 @@
+As the script libraries used for the game aren't free (i.e. not released by EA under a free license), and since we're pretty much dealing with the developers changing scripts with each version, you need to get the following decompiled DLLs from here:
+
+http://www.den.simlogical.com/denforum/index.php?topic=1686.0
